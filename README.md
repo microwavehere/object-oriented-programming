@@ -1,2 +1,2 @@
 # object-oriented-programming
-Object-Oriented Programming with C++.
+Object-Oriented Programming with Java
